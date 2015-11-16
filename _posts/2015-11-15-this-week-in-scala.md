@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parallec was featured in This Week in Scala"
-author: billy_rick
+author: jeff_pei
 modified:
 excerpt: "Parallec was featured in This Week in Scala by CakeSolutions."
 tags: []
