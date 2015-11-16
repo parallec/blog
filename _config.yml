@@ -2,8 +2,8 @@
 
 title:            Site Title
 locale:           en_US
-url:
-
+url:              http://parallec.github.io/blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 # Jekyll configuration
 
@@ -15,7 +15,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+
 
 kramdown:
   auto_ids: true
