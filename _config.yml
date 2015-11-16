@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Parallec.io Blog
 locale:           en_US
 url:              http://parallec.github.io/blog/
 baseurl: "/blog" # the subpath of your site, e.g. /blog
@@ -27,9 +27,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Parallec.io
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Fast parallel async HTTP/SSH/TCP/Ping client java library based on Akka. "
   email:
   disqus-shortname:
   twitter: #username
