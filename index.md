@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Latest updates in Parallec.io."
+tags: [Akka, parallec, HTTP]
 image:
   feature: sample-image-1b.jpg
 ---

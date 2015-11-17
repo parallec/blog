@@ -27,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Parallec.io
-  avatar: bio-photo.jpg
-  bio: "Fast parallel async HTTP/SSH/TCP/Ping client java library based on Akka. "
-  email:
+  name: Yuanteng (Jeff) pei
+  avatar: bio-photo-jeff.png
+  bio: "Report latest news on Parallec.io Cloud@eBay, San Jose, CA "
+  email: ypei@ebay.com
   disqus-shortname:
-  twitter: #username
+  twitter: jeffpeiyt
   facebook: #username
   google:
     plus: #username
@@ -41,9 +41,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: jeffpeiyt
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: peiyuant
   xing: #username
   instagram: #username
   lastfm: #username
