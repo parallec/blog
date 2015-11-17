@@ -11,6 +11,7 @@ image:
 
 ## Latests Updates on Parallec
 
-This page is about recent news on parallec.io 
+<a href="http://www.parallec.io"><img alt="Parallec-logo" src="http://www.parallec.io/images/parallec-logo.png" width="325"></a>
 
-<a markdown="0" href="http://www.parallec.io/#code-sample" class="btn">Check Code Samples</a>
+
+This blog is about recent news on [parallec.io](http://www.parallec.io).
